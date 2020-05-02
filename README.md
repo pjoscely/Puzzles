@@ -1,2 +1,2 @@
 # Puzzles
-Miscellaneous
+Miscellaneous puzzles solved with code.
